@@ -18,6 +18,9 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
+### 📖 Daily Dev Stats
+<a href="https://app.daily.dev/mariusstephany"><img src="https://api.daily.dev/devcards/f88ebbc818b94c0293bb7dfcc8a799de.png?r=mrm" width="400" alt="Marius Stephany's Dev Card"/></a>
+
 ### 🚀 Github Stats
 
 <img alt="GitHub Stats" src="https://github-readme-stats-one-brown-89.vercel.app/api/top-langs/?username=mariusSty&layout=compact&show_icons=true&hide_border=false&theme=radical" />
