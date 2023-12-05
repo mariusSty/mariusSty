@@ -20,5 +20,5 @@
 
 ### 🚀 Github Stats
 
-<img alt="mariusSty's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusSty&layout=compact&show_icons=true&hide_border=false&theme=radical" />
-<img align="left" alt="mariusSty's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariusSty&show_icons=true&hide_border=false&hide=contribs&custom_title=Github%20Stats&rank_icon=github&theme=radical" />
+<img alt="mariusSty's GitHub Stats" src="https://github-readme-stats-one-brown-89.vercel.app/api/top-langs/?username=mariusSty&layout=compact&show_icons=true&hide_border=false&theme=radical" />
+<img align="left" alt="mariusSty's GitHub Stats" src="https://github-readme-stats-one-brown-89.vercel.app/api?username=mariusSty&show_icons=true&hide_border=false&hide=contribs&custom_title=Github%20Stats&rank_icon=github&theme=radical" />
