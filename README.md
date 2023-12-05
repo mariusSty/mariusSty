@@ -19,7 +19,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 ### 📖 Daily Dev Stats
-<a href="https://app.daily.dev/mariusstephany"><img src="https://api.daily.dev/devcards/f88ebbc818b94c0293bb7dfcc8a799de.png?r=mrm" width="250" alt="Marius Stephany's Dev Card"/></a>
+<a href="https://app.daily.dev/mariusstephany"><img src="https://api.daily.dev/devcards/f88ebbc818b94c0293bb7dfcc8a799de.png?r=zsz" width="250" alt="Marius Stephany's Dev Card"/></a>
 
 ### 🚀 Github Stats
 
