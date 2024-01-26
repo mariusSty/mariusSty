@@ -2,8 +2,9 @@
 
 - Country based : 🇫🇷
 - Developer since : 2️⃣0️⃣1️⃣3️⃣
-- Looking for a job : ✅
 - Love : 🎲🏔️🧑‍🍳
+
+My website : https://marius-portfolio.vercel.app/
 
 ### 🛠️ Languages and Tools
 
