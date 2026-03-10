@@ -1,0 +1,22 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Tous les jours à minuit UTC
+  workflow_dispatch:        # Déclenchement manuel possible
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Stats
+        uses: thanhhaudev/github-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_METRICS: "COMMIT_TIMES_OF_DAY,COMMIT_DAYS_OF_WEEK"
