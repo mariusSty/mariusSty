@@ -1,61 +1,42 @@
 <!-- INTRO - Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mariusSty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6B00,100:0D0D0D&height=180&section=header&text=Marius%20STEPHANY&fontSize=42&fontColor=FF6B00&animation=twinkling&fontAlignY=32&desc=%E2%9A%A1%20Fullstack%20Developer%20%7C%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js%20%E2%9A%A1&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
 <!-- 1 - GitHub Streak -->
-<h3 align="center">🔥 Current Streak</h3>
+<h3 align="center">🔥 My GitHub Streak 🔥</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mariusSty&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=mariusSty&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D0D0D&fire=FF6B00&ring=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
 <!-- 2 - Commit Times of Day (thanhhaudev/github-stats) -->
-<h3 align="center">🕐 When I Code</h3>
+<h3 align="center">⏰ My Coding Hours ⏰</h3>
 
 <p align="center">
-<!--START_SECTION:readme-stats-->
-**🕒 I'm An Afternoon Warrior 🥷🏻**
-
-```text
-🌅 Morning                344 commits         ██████████░░░░░░░░░░░░░░░   39.31%
-🌞 Daytime                353 commits         ██████████░░░░░░░░░░░░░░░   40.34%
-🌆 Evening                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97%
-🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37%
-```
-
-**📅 I'm Most Productive on Tuesday**
-
-```text
-Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60%
-Tuesday                  198 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63%
-Wednesday                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66%
-Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23%
-Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80%
-Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
-```
-
-
-<!--END_SECTION:readme-stats-->
+<!--START_SECTION:coding-hours-->
+<!--END_SECTION:coding-hours-->
 </p>
 
 ---
 
 <!-- 3 - Commit Days of Week (thanhhaudev/github-stats) -->
-<h3 align="center">📅 My Most Productive Days</h3>
+<h3 align="center">📊 Weekly Commit Rhythm 📊</h3>
 
-> ℹ️ Les sections **When I Code** et **My Most Productive Days** ci-dessus sont automatiquement remplies par la GitHub Action `thanhhaudev/github-stats` (voir `.github/workflows/stats.yml`).
+<p align="center">
+<!--START_SECTION:commit-days-->
+<!--END_SECTION:commit-days-->
+</p>
 
 ---
 
 <!-- FIN - Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6B00,100:0D0D0D&height=120&section=footer&animation=twinkling" />
 </p>
