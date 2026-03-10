@@ -21,6 +21,16 @@
 
 <p align="center">
 <!--START_SECTION:coding-hours-->
+**🕒 I'm An Afternoon Warrior 🥷🏻**
+
+```text
+🌅 Morning                344 commits         ██████████░░░░░░░░░░░░░░░   39.18%
+🌞 Daytime                356 commits         ██████████░░░░░░░░░░░░░░░   40.55%
+🌆 Evening                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93%
+🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34%
+```
+
+
 <!--END_SECTION:coding-hours-->
 </p>
 
