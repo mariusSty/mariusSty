@@ -31,6 +31,19 @@
 
 <p align="center">
 <!--START_SECTION:commit-days-->
+**📅 I'm Most Productive on Tuesday**
+
+```text
+Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58%
+Tuesday                  199 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72%
+Wednesday                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64%
+Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21%
+Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79%
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
+```
+
+
 <!--END_SECTION:commit-days-->
 </p>
 
