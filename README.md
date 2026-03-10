@@ -21,6 +21,28 @@
 
 <p align="center">
 <!--START_SECTION:readme-stats-->
+**🕒 I'm An Afternoon Warrior 🥷🏻**
+
+```text
+🌅 Morning                344 commits         ██████████░░░░░░░░░░░░░░░   39.31%
+🌞 Daytime                353 commits         ██████████░░░░░░░░░░░░░░░   40.34%
+🌆 Evening                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97%
+🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37%
+```
+
+**📅 I'm Most Productive on Tuesday**
+
+```text
+Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60%
+Tuesday                  198 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63%
+Wednesday                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66%
+Thursday                 142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23%
+Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80%
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+```
+
+
 <!--END_SECTION:readme-stats-->
 </p>
 
