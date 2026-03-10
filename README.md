@@ -1,6 +1,6 @@
 <!-- INTRO - Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6B00,100:0D0D0D&height=180&section=header&text=Marius%20STEPHANY&fontSize=42&fontColor=FF6B00&animation=twinkling&fontAlignY=32&desc=%E2%9A%A1%20Fullstack%20Developer%20%7C%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js%20%E2%9A%A1&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6B00,100:0D0D0D&height=180&section=header&text=Marius%20STEPHANY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E2%9A%A1%20Fullstack%20Developer%20%7C%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js%20%E2%9A%A1&descAlignY=55&descAlign=50" />
 </p>
 
 ---
