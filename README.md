@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://gitblend.com">
-    <img src="https://gitblend.com/api/contributions/github?username=mariusSty&theme=dark" alt="GitBlend Contributions" />
+    <img src="https://gitblend.com/api/contributions/github?username=mariusSty&theme=sunset" alt="GitBlend Contributions" />
   </a>
 </p>
 
