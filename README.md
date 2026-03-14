@@ -16,7 +16,29 @@
 
 ---
 
-<!-- 2 - Commit Times of Day (thanhhaudev/github-stats) -->
+<!-- 2 - GitBlend Contributions -->
+<h3 align="center">📈 My Contributions 📈</h3>
+
+<p align="center">
+  <a href="https://gitblend.com">
+    <img src="https://gitblend.com/api/contributions?username=mariusSty&theme=dark" alt="GitBlend Contributions" />
+  </a>
+</p>
+
+---
+
+<!-- 3 - GitHub Contributions Graph (pumbas600) -->
+<h3 align="center">🚀 Recent Contributions 🚀</h3>
+
+<p align="center">
+  <a href="https://github.com/pumbas600/github-contributions">
+    <img src="https://github.pumbas.net/api/contributions/mariusSty?colour=FF6B00&bgColour=0D0D0D&dotColour=888888" alt="mariusSty's Contributions" />
+  </a>
+</p>
+
+---
+
+<!-- 4 - Commit Times of Day (thanhhaudev/github-stats) -->
 <h3 align="center">⏰ My Coding Hours ⏰</h3>
 
 <p align="center">
@@ -30,13 +52,12 @@
 🌙 Night                  86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56%
 ```
 
-
 <!--END_SECTION:coding-hours-->
 </p>
 
 ---
 
-<!-- 3 - Commit Days of Week (thanhhaudev/github-stats) -->
+<!-- 5 - Commit Days of Week (thanhhaudev/github-stats) -->
 <h3 align="center">📊 Weekly Commit Rhythm 📊</h3>
 
 <p align="center">
@@ -52,7 +73,6 @@ Thursday                 148 commits         ████░░░░░░░�
 Friday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33%
 Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22%
 ```
-
 
 <!--END_SECTION:commit-days-->
 </p>
