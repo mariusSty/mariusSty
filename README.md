@@ -27,17 +27,6 @@
 
 ---
 
-<!-- 3 - GitHub Contributions Graph (pumbas600) -->
-<h3 align="center">🚀 Recent Contributions 🚀</h3>
-
-<p align="center">
-  <a href="https://github.com/pumbas600/github-contributions">
-    <img src="https://github.pumbas.net/api/contributions/mariusSty?colour=39D353&bgColour=0D0D0D&dotColour=888888" alt="mariusSty's Contributions" />
-  </a>
-</p>
-
----
-
 <!-- 4 - Commit Times of Day (thanhhaudev/github-stats) -->
 <h3 align="center">⏰ My Coding Hours ⏰</h3>
 
